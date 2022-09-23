@@ -11,9 +11,9 @@ The goal was to be simple enough to practice different concepts without having t
 
 A simple controller (SingletonController) that has three GET methods exactly the same, all three return an ID (Guid.NewGuid())
 
-The first method does not implement the Singleton Pattern, so every time we make the request the generated ID must be different, as it is instantiated every time.
-The second method implements the Singleton Pattern in a basic way, and every time we make a request it must return the same ID.
-The third method also implements the Singleton Pattern and works like the second one, but in this method using containers with dependency injection, with much cleaner code and best practices.
+* The first method does not implement the Singleton Pattern, so every time we make the request the generated ID must be different, as it is instantiated every time.
+* The second method implements the Singleton Pattern in a basic way, and every time we make a request it must return the same ID.
+* The third method also implements the Singleton Pattern and works like the second one, but in this method using containers with dependency injection, with much cleaner code and best practices.
 
 =====================================================================
 
