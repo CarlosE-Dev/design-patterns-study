@@ -5,7 +5,6 @@ using System;
 
 namespace DesignPatterns.Api.Controllers
 {
-    // This simple controller and endpoints were created to study and practice Repository Pattern
     [Route("api/v1/[controller]")]
     [ApiController]
     public class PersonController : ControllerBase
@@ -16,8 +15,6 @@ namespace DesignPatterns.Api.Controllers
             _personRepository = personRepository;
         }
 
-        // Here we have all the methods of a functional CRUD.
-        // Validations and some good practices were not so relevant here, the focus is to be a simple and functional CRUD
         [HttpGet("")]
         public IActionResult GetAll()
         {
