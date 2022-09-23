@@ -4,8 +4,6 @@ using System;
 
 namespace DesignPatterns.Api.Controllers
 {
-    // This simple controller and endpoint were created to study and practice Facade Pattern
-    // Validations and some good practices were not so relevant here, the focus is just to make the Facade Pattern flow work
     [Route("api/[controller]")]
     [ApiController]
     public class PersonActionsController : ControllerBase
