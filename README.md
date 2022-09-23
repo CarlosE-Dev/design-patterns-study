@@ -5,7 +5,9 @@ In this project I practiced some concepts about the Design Patterns: Repository 
 I made some comments in the code indicating some actions and reasons why I made some decisions, the main objective of this project was to study and practice about Design Patterns, so validations and some good practices were not so relevant when I created this code.
 The goal was to be simple enough to practice different concepts without having to work hard on parts that has no relation with the purpose of the project.
 
+
 =====================================================================
+
 
 - Singleton Pattern
 
@@ -15,7 +17,9 @@ A simple controller (SingletonController) that has three GET methods exactly the
 * The second method implements the Singleton Pattern in a basic way, and every time we make a request it must return the same ID.
 * The third method also implements the Singleton Pattern and works like the second one, but in this method using containers with dependency injection, with much cleaner code and best practices.
 
+
 =====================================================================
+
 
 - Repository Pattern
 
@@ -30,7 +34,9 @@ The database Mock is a simple list of Persons, and it is used this way:
 * 'GetAll' method returns the complete list. 
 * 'GetById' method returns a record of the list by ID.
 
+
 =====================================================================
+
 
 - Facade Pattern
 
@@ -46,4 +52,6 @@ When a request is sent to the controller, the ID is obtained by param and passed
 
 If sucessful, you will be able to see the details of your deposit in the Mock API (https://632c58791aabd8373999e31d.mockapi.io/api/v1/bank/deposit)
 
+
 =====================================================================
+
