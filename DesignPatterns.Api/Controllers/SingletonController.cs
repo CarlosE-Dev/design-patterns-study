@@ -3,7 +3,6 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace DesignPatterns.Api.Controllers
 {
-    // This simple controller and endpoints were created to study and practice Singleton Pattern
     [Route("api/v1/[controller]")]
     [ApiController]
     public class SingletonController : ControllerBase
