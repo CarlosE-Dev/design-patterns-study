@@ -1,0 +1,12 @@
+C:\Dev\design-patterns-intro\DesignPatterns\DesignPatterns.Domain\bin\Debug\net5.0\DesignPatterns.Domain.deps.json
+C:\Dev\design-patterns-intro\DesignPatterns\DesignPatterns.Domain\bin\Debug\net5.0\DesignPatterns.Domain.dll
+C:\Dev\design-patterns-intro\DesignPatterns\DesignPatterns.Domain\bin\Debug\net5.0\DesignPatterns.Domain.pdb
+C:\Dev\design-patterns-intro\DesignPatterns\DesignPatterns.Domain\obj\Debug\net5.0\DesignPatterns.Domain.csproj.AssemblyReference.cache
+C:\Dev\design-patterns-intro\DesignPatterns\DesignPatterns.Domain\obj\Debug\net5.0\DesignPatterns.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\design-patterns-intro\DesignPatterns\DesignPatterns.Domain\obj\Debug\net5.0\DesignPatterns.Domain.AssemblyInfoInputs.cache
+C:\Dev\design-patterns-intro\DesignPatterns\DesignPatterns.Domain\obj\Debug\net5.0\DesignPatterns.Domain.AssemblyInfo.cs
+C:\Dev\design-patterns-intro\DesignPatterns\DesignPatterns.Domain\obj\Debug\net5.0\DesignPatterns.Domain.csproj.CoreCompileInputs.cache
+C:\Dev\design-patterns-intro\DesignPatterns\DesignPatterns.Domain\obj\Debug\net5.0\DesignPatterns.Domain.dll
+C:\Dev\design-patterns-intro\DesignPatterns\DesignPatterns.Domain\obj\Debug\net5.0\refint\DesignPatterns.Domain.dll
+C:\Dev\design-patterns-intro\DesignPatterns\DesignPatterns.Domain\obj\Debug\net5.0\DesignPatterns.Domain.pdb
+C:\Dev\design-patterns-intro\DesignPatterns\DesignPatterns.Domain\obj\Debug\net5.0\ref\DesignPatterns.Domain.dll

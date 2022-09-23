@@ -1,0 +1,15 @@
+C:\Dev\design-patterns-intro\DesignPatterns\DesignPatterns.Infra\bin\Debug\net5.0\DesignPatterns.Infra.deps.json
+C:\Dev\design-patterns-intro\DesignPatterns\DesignPatterns.Infra\bin\Debug\net5.0\DesignPatterns.Infra.dll
+C:\Dev\design-patterns-intro\DesignPatterns\DesignPatterns.Infra\bin\Debug\net5.0\DesignPatterns.Infra.pdb
+C:\Dev\design-patterns-intro\DesignPatterns\DesignPatterns.Infra\obj\Debug\net5.0\DesignPatterns.Infra.csproj.AssemblyReference.cache
+C:\Dev\design-patterns-intro\DesignPatterns\DesignPatterns.Infra\obj\Debug\net5.0\DesignPatterns.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\design-patterns-intro\DesignPatterns\DesignPatterns.Infra\obj\Debug\net5.0\DesignPatterns.Infra.AssemblyInfoInputs.cache
+C:\Dev\design-patterns-intro\DesignPatterns\DesignPatterns.Infra\obj\Debug\net5.0\DesignPatterns.Infra.AssemblyInfo.cs
+C:\Dev\design-patterns-intro\DesignPatterns\DesignPatterns.Infra\obj\Debug\net5.0\DesignPatterns.Infra.csproj.CoreCompileInputs.cache
+C:\Dev\design-patterns-intro\DesignPatterns\DesignPatterns.Infra\obj\Debug\net5.0\DesignPatterns.Infra.dll
+C:\Dev\design-patterns-intro\DesignPatterns\DesignPatterns.Infra\obj\Debug\net5.0\refint\DesignPatterns.Infra.dll
+C:\Dev\design-patterns-intro\DesignPatterns\DesignPatterns.Infra\obj\Debug\net5.0\DesignPatterns.Infra.pdb
+C:\Dev\design-patterns-intro\DesignPatterns\DesignPatterns.Infra\obj\Debug\net5.0\ref\DesignPatterns.Infra.dll
+C:\Dev\design-patterns-intro\DesignPatterns\DesignPatterns.Infra\bin\Debug\net5.0\DesignPatterns.Domain.dll
+C:\Dev\design-patterns-intro\DesignPatterns\DesignPatterns.Infra\bin\Debug\net5.0\DesignPatterns.Domain.pdb
+C:\Dev\design-patterns-intro\DesignPatterns\DesignPatterns.Infra\obj\Debug\net5.0\DesignPatterns.Infra.csproj.CopyComplete
