@@ -31,7 +31,7 @@ The database Mock is a simple list of Persons, and it is used this way:
 * 'GetAll' method returns the complete list. 
 * 'GetById' method returns a record of the list by ID.
 
-In this way, we isolate our data access logic from the application's business logic, reducing coupling and making the application more scalable by applying the Repository Pattern
+In this way, we isolate our data access logic from the application's business logic, reducing coupling and making the application more scalable by applying the Repository Pattern.
 
 ## 
 
@@ -49,7 +49,7 @@ When a request is sent to the controller, the ID is obtained by param and passed
 
 If sucessful, you will be able to see the details of your deposit in the Mock API (https://632c58791aabd8373999e31d.mockapi.io/api/v1/bank/deposit)
 
-In this part, we have simplified steps that could be more complex, we have separated the responsibility of using several classes in different parts of the application to just one class to handle it, leaving the complexity of this action hidden, considerably reducing the coupling, applying the Facade pattern.
+In this part we use a scenario in which we reference several classes that are in different parts of the application to do a certain action, so we have passed the responsibility of handling these more complex steps to just one class, leaving the complexity of this action hidden and considerably reducing coupling between the classes by applying the Facade pattern.
 
 ## 
 
