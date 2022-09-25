@@ -6,7 +6,7 @@ I made some comments in the code indicating some actions and reasons why I made 
 The goal was to be simple enough to practice different concepts without having to work hard on parts that has no relation with the purpose of the project.
 ## 
 
-- Singleton Pattern
+<strong>Singleton Pattern</strong>
 
 A simple controller (SingletonController) that has three GET methods exactly the same, all three return an ID (Guid.NewGuid())
 
@@ -15,7 +15,7 @@ A simple controller (SingletonController) that has three GET methods exactly the
 * The third method also implements the Singleton Pattern and works like the second one, but in this method using containers with dependency injection, with much cleaner code and best practices.
 ## 
 
-- Repository Pattern
+<strong>Repository Pattern</strong>
 
 A simple controller with CRUD methods(PersonController): 'Create', 'Update', 'GetById', 'GetAll' and 'Delete'
 
@@ -29,7 +29,7 @@ The database Mock is a simple list of Persons, and it is used this way:
 * 'GetById' method returns a record of the list by ID.
 ## 
 
-- Facade Pattern
+<strong>Facade Pattern</strong>
 
 A very simple controller(PersonActionsController) with just one PUT method which calls the PersonActions class, located in the Infra layer, passing the ID of a Person.
 PersonActions is a class that has actions that a person can do, in this case we implement the DepositMoney method, which consists of a person making a deposit in their bank account, this class has the following responsibilities:
