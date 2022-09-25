@@ -13,6 +13,9 @@ A simple controller (SingletonController) that has three GET methods exactly the
 * The first method does not implement the Singleton Pattern, so every time we make the request the generated ID must be different, as it is instantiated every time.
 * The second method implements the Singleton Pattern in a basic way, and every time we make a request it must return the same ID.
 * The third method also implements the Singleton Pattern and works like the second one, but in this method using containers with dependency injection, with much cleaner code and best practices.
+
+and these are some ways to use the same instance for different requests that we use, applying the Singleton Pattern.
+
 ## 
 
 <strong>Repository Pattern</strong>
@@ -27,6 +30,9 @@ The database Mock is a simple list of Persons, and it is used this way:
 * 'Update' method changes the properties of the list registers by ID. 
 * 'GetAll' method returns the complete list. 
 * 'GetById' method returns a record of the list by ID.
+
+In this way, we isolate our data access logic from the application's business logic, reducing coupling and making the application more scalable by applying the Repository Pattern
+
 ## 
 
 <strong>Facade Pattern</strong>
@@ -42,5 +48,8 @@ PersonActions is a class that has actions that a person can do, in this case we 
 When a request is sent to the controller, the ID is obtained by param and passed to the PersonActions class, that is called by controller and in the class PersonActions the Person is obtained through the repository (GetById), after that we need to create the DepositMoney(model) which is created with bank information and customer data(person data), after that, the HttpClient is created to configure the request and the information of the external API, finally the POST request is made to register the deposit in the external API.
 
 If sucessful, you will be able to see the details of your deposit in the Mock API (https://632c58791aabd8373999e31d.mockapi.io/api/v1/bank/deposit)
+
+In this part, we have simplified steps that could be more complex, we have separated the responsibility of using several classes in different parts of the application to just one class to handle it, leaving the complexity of this action hidden, considerably reducing the coupling, applying the Facade pattern.
+
 ## 
 
