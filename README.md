@@ -14,7 +14,7 @@ A simple controller (SingletonController) that has three GET methods exactly the
 * The second method implements the Singleton Pattern in a basic way, and every time we make a request it must return the same ID.
 * The third method also implements the Singleton Pattern and works like the second one, but in this method using containers with dependency injection, with much cleaner code and best practices.
 
-and these are some ways to use the same instance for different requests, applying the Singleton Pattern.
+And these are some ways to use the same instance for different requests, applying the Singleton Pattern.
 
 ## 
 
